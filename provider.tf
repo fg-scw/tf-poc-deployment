@@ -34,5 +34,5 @@ provider "scaleway" {
   // Region we want to use
   region = "fr-par"
   // Replace with customer organization id
-  organization_id = "e97e853d-3cce-4ebf-acda-ec5d6abc8fa8"
+  organization_id = "<YOUR ORGID>"
 }
